@@ -1,0 +1,11 @@
+{
+  "name":"ExampleModule",
+  "installAs":"ExampleModule",
+  "authors":["vcokltfre", "MagnetPy"],
+  "version":"1.0.0",
+  "exportModules":[
+    "ping":{
+      "exportCommands":["ping"]
+    }
+  ]
+}
